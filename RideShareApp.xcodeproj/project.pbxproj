@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					BC28B3521F374C390085C073 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = GD9NSD28HW;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -262,6 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GD9NSD28HW;
 				INFOPLIST_FILE = RideShareApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mnsoftechapps.RideShareApp;
@@ -274,6 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GD9NSD28HW;
 				INFOPLIST_FILE = RideShareApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mnsoftechapps.RideShareApp;
